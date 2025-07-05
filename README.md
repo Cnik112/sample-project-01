@@ -1,6 +1,6 @@
 # sample-project-01
 A sample project repository for testing GitHub features and learning purposes.
-# Hello, I'm [Your Name] 👋
+# Hello, I'm Cnik 👋
 
 This is a personal repository to showcase my projects, experiments, and learning journey in programming and technology.
 
